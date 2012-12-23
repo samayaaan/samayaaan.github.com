@@ -4,7 +4,7 @@
   <title><![CDATA[samayaaan's blog]]></title>
   <link href="http://samayaaan.github.com/atom.xml" rel="self"/>
   <link href="http://samayaaan.github.com/"/>
-  <updated>2012-12-24T08:40:55+09:00</updated>
+  <updated>2012-12-24T08:46:03+09:00</updated>
   <id>http://samayaaan.github.com/</id>
   <author>
     <name><![CDATA[samayaaan]]></name>
@@ -18,7 +18,7 @@
     <link href="http://samayaaan.github.com/blog/2012/12/23/test/"/>
     <updated>2012-12-23T00:00:00+09:00</updated>
     <id>http://samayaaan.github.com/blog/2012/12/23/test</id>
-    <content type="html"><![CDATA[<p>&#8212;  layout: post  title: &#8220;初投稿&#8221;  date: 2012-12-23 18:35  comments: true  categories:  &#8212;  #投稿サンプル> &#8220;&#8212;layout: posttitle: &#8220;初投稿&#8221;date: 2012-12-23 18:35comments: truecategories:&#8212;ここから本文&#8221;※すべての行の最後にスペースが二つ必要</p>
+    <content type="html"><![CDATA[<p>&#8212;layout: posttitle: &#8220;初投稿&#8221;date: 2012-12-23 18:35comments: truecategories:&#8212;# 投稿サンプル> &#8220;&#8212;layout: posttitle: &#8220;初投稿&#8221;date: 2012-12-23 18:35comments: truecategories:&#8212;ここから本文&#8221;※すべての行の最後にスペースが二つ必要</p>
 ]]></content>
   </entry>
   
